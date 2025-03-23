@@ -42,7 +42,7 @@ psql
 Trocar senha:
 ALTER USER postgres PASSWORD 'enrico'; 
 
-Esta senha para fins de teste, será utilizada no arquivo main.py.
+> **Nota:** Esta senha é apenas para fins de teste e será utilizada no arquivo `main.py`. Certifique-se de alterá-la em um ambiente de produção para garantir a segurança.
 
 
 
